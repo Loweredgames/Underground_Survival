@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:overworld",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:plains",
+      "lakes": true,
+      "features": true,
+      "layers": [
+        {
+          "block": "minecraft:bedrock",
+          "height": 10
+        },
+        {
+          "block": "minecraft:deepslate",
+          "height": 185
+        },
+        {
+          "block": "minecraft:stone",
+          "height": 185
+        },
+        {
+          "block": "minecraft:bedrock",
+          "height": 10
+        }
+      ],
+      "structure_overrides": [
+        "minecraft:ruined_portals",
+        "minecraft:mineshafts",
+        "minecraft:strongholds"
+      ]
+    }
+  }
+}

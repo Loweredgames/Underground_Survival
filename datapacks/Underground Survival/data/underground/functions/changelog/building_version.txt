@@ -1,0 +1,16 @@
+
+Name: Underground Survival
+
+Edition: JAVA EDITION
+
+Release: JE-1.19.2-Underground_Survival:BUILDING:02.08.2022a - 1.0.0
+
+Resource_pack: FALSE
+
+Data_pack: TRUE
+
+Github_Tag: JE-1a
+
+Github:https://github.com/Lorenzo0310200/Underground_Survival
+
+Website:https://minecraft-map-building-versions.blogspot.com/
